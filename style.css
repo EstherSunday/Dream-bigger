@@ -296,10 +296,10 @@ input:focus
 	nav ul li a{
 		font-size: 20px;
 	}
-	a:hover{
+	/* a:hover{
 		background: none;
 		color: #f2b353;
-	}
+	} */
 	a:active{
 		background: none;
 		color: #a7560c;
